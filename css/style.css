@@ -46,3 +46,6 @@ section {
     padding: 2em 0;
 
 }
+.img {
+    object-position: left;
+}
