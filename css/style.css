@@ -54,14 +54,14 @@ h2 {
     margin-bottom: 40px;
     width: calc((100% / 3 ) - 20px);
     border-radius: 3px;
-    box-shadow: 0px 2px 10px 0 rgba(0, 0, 0, 1.2);
+    box-shadow: 0px 0px 10px 0 rgba(0, 0, 0, 1.2);
     transition: all 600ms ease;
     float: left;
     font-size: 16px;
      
 }
-.cards:hover {
-    box-shadow: 5px 5px 20px 0 rgba(0, 0, 0, 1.6);
+.cards:hover,.cards2:hover, .cards5:hover {
+    box-shadow: 5px 5px 30px 0 rgba(0, 0, 0, 2.6);
 }
 
 .cards2,.cards5 {
